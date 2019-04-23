@@ -1,0 +1,59 @@
+ .nav{
+    background-color: black;
+    color: white;
+    display: block;
+    padding: 12px 0px 0px 0px;
+}
+
+.nav ul li a{
+    color: white;
+    margin:0;
+
+    border-top:none;
+}
+
+.hero{
+    height: 100vh;
+    background: url(bg-home.jpg);
+    background-size: cover;
+    background-attachment: fixed;    
+    background-position: top center;
+    text-align: center;
+    padding-top: 5px;
+    
+} 
+.navigation  h1 {
+    color: white;
+    text-align: center;
+    visibility: visible;
+    animation-name: fadeInUp;
+    padding-top: 300px;
+} 
+
+
+
+
+.shadowBox {
+    padding:2em;
+    margin-bottom:2em;
+    -webkit-box-shadow:1px 1px 21px -4px rgba(0, 0, 0, 0.75);
+    box-shadow:1px 1px 21px -4px rgba(0, 0, 0, 0.75)
+}
+
+.shadowBox img {
+    width: 100%;
+    height: auto;
+} 
+.b-blu{
+    background-color: black;
+    height: 40px;
+    border-radius: 5px;
+} 
+
+.logo {
+    padding: 12px 0px 0px 100px;
+}
+
+
+
+
